@@ -1,0 +1,35 @@
+#  Core Dashboard 
+streamlit>=1.32.0
+plotly>=5.18.0
+pandas>=2.1.0
+matplotlib>=3.8.0
+wordcloud>=1.9.3
+
+#  Database ─
+motor==3.3.2
+pymongo==4.6.0
+
+#  Sentiment Analysis (Primary) ─
+transformers>=4.38.0
+torch>=2.2.0
+sentencepiece>=0.1.99
+
+#  Sentiment Fallbacks 
+vaderSentiment>=3.3.2
+textblob>=0.17.1
+
+#  AI Suggestions 
+groq>=0.5.0
+
+#  Data Retrieval 
+serpapi>=0.1.5
+google-api-python-client>=2.118.0
+asyncpraw>=7.7.1
+tweepy>=4.14.0          # Twitter/X scraping
+firecrawl-py>=0.0.16
+
+#  Utilities ─
+python-dotenv>=1.0.1
+aiohttp>=3.9.3
+backoff>=2.2.1
+nest_asyncio>=1.5.8

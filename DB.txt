@@ -1,0 +1,2 @@
+Sathvik254798
+mongodb+srv://sathvikbodugala25_db_user:Sathvik254798@sentimentanalysis.tmrypql.mongodb.net/?appName=Sentimentanalysis
